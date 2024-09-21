@@ -1,0 +1,14 @@
+{
+  "name": "FetchHolderList",
+  "version": "1.0.0",
+  "description": "fetch holders",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
