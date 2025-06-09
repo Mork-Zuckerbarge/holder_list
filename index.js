@@ -1,4 +1,4 @@
-const fs = require("fs"); // Use require for the file system module
+const fs = require("fs");
 const url = "https://mainnet.helius-rpc.com/?api-key=<yourAPIkey>";
 
 const getTokenAccounts = async () => {
